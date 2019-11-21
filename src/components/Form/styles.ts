@@ -23,7 +23,7 @@ export default makeStyles(theme => ({
     marginRight: theme.spacing(1),
   },
   thumbnail: {
-    maxWidth: 75,
+    width: 75,
     maxHeight: 75,
     marginBottom: theme.spacing(.5),
   },
